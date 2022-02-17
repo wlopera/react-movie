@@ -1,70 +1,39 @@
-# Getting Started with Create React App
+# React App - Películas
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+App para agregar y consultar Películas - uso SWAPI - Firebase (APIs)
 
-## Available Scripts
+### Salida: Botones de consulta y agregar 
+![Captura](https://user-images.githubusercontent.com/7141537/154527839-a059c3e5-4763-431b-815a-52434d1a35a8.PNG)
 
-In the project directory, you can run:
+### Salida: Consulta Películas SWAPI
+![Captura1](https://user-images.githubusercontent.com/7141537/154527841-70022dba-b77f-4f3e-b0b4-eac681d2c4e4.PNG)
 
-### `npm start`
+### Salida: Consulta Películas FIREBASE
+![Captura2](https://user-images.githubusercontent.com/7141537/154527844-626ef78f-954a-428e-9e77-55e685b0b61f.PNG)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### Salida: Agregar Películas FIREBASE
+![Captura3](https://user-images.githubusercontent.com/7141537/154527848-44ba177e-4c1f-40fa-b09c-cced3c42e45c.PNG)
+![Captura4](https://user-images.githubusercontent.com/7141537/154527851-df97abc8-f5da-4875-93ce-c10738064346.PNG)
+![Captura5](https://user-images.githubusercontent.com/7141537/154527852-9808be36-913a-42c1-ba1c-b7675e0a7216.PNG)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### Salida: Manejo de error Películas SWAPI - consulta
+![Captura7](https://user-images.githubusercontent.com/7141537/154527857-688a274c-d2ce-45b8-9791-9c2359dec5b8.PNG)
+![Captura6](https://user-images.githubusercontent.com/7141537/154527855-9be3fd26-d5d9-4d1a-830b-986781f19d06.PNG)
 
-### `npm test`
+### Salida: Dos formas de consultar Películas - SWAPI
+![Captura8](https://user-images.githubusercontent.com/7141537/154527861-09667250-710c-4961-97ae-f06407c26550.PNG)
+![Captura9](https://user-images.githubusercontent.com/7141537/154527862-ccdaed6e-a558-496c-a8c8-447f8e9c13ee.PNG)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Salida: Dos formas de consultar Películas - SWAPI
+![Captura10](https://user-images.githubusercontent.com/7141537/154527863-658b961b-0925-49bc-b881-a21f052421e7.PNG)
+![Captura11](https://user-images.githubusercontent.com/7141537/154527866-a839504b-362f-448a-943b-eb67ac7a8b77.PNG)
+![Captura12](https://user-images.githubusercontent.com/7141537/154527869-e6d236f2-e74e-41fd-a682-b031f7618ac5.PNG)
 
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+![Captura-a](https://user-images.githubusercontent.com/7141537/154527805-19402519-4814-44f7-8d05-b5fb94647b63.PNG)
+![Captura-b](https://user-images.githubusercontent.com/7141537/154527817-40193c68-c0b9-4233-87d7-40aef3fa84e5.PNG)
+![Captura-c](https://user-images.githubusercontent.com/7141537/154527822-77e42ffa-5550-494a-a3ef-8238e527da69.PNG)
+![Captura-c1](https://user-images.githubusercontent.com/7141537/154527826-2fae159d-5786-436f-8f70-2fb49d55cafd.PNG)
+![Captura-d](https://user-images.githubusercontent.com/7141537/154527828-149478f0-1a63-433d-84b8-e31e43f70e6b.PNG)
+![Captura-e](https://user-images.githubusercontent.com/7141537/154527831-b7ee4c08-2f1f-4712-b4b8-50c4ae535419.PNG)
+![Captura-f](https://user-images.githubusercontent.com/7141537/154527833-4fafe5ce-e62e-43e8-bb2f-bf8950a0fc64.PNG)
+![Captura-g](https://user-images.githubusercontent.com/7141537/154527835-24a148c8-f1dd-4fb2-bd87-3ec083c4ec17.PNG)
